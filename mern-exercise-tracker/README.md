@@ -1,3 +1,8 @@
+In backend, nodemon server to start server
+In main folder, npm start to start website
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
